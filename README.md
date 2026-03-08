@@ -1,9 +1,9 @@
 <h1 align="center">
-  ＷＲＴ  <!-- или 𝐖𝐑𝐓 -->
+  ＷＲＴ T E A M  <!-- или 𝐖𝐑𝐓 -->
 </h1>
 
-<p align="center">
-  <i>Описание проекта или тэглайн</i>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Делаю+имбовые+приложения)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+![Typing SVG](https://camo.githubusercontent.com/1a426eab52e24c5a866136f9601c6b4793628b7d0d9ad008cecb0cd5614c86ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538362d627269676874677265656e)
+
+![Typing SVG](https://camo.githubusercontent.com/86f9c4bb8a7d0c66c77f70cab7465f9a05406f876acaf234fb0479f982be08e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
